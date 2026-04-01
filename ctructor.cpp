@@ -32,6 +32,7 @@ public:
     {
         cout << "x & y & z: " << x << " " << y << " " << z << endl;
     }
+    ~Test(){}
 };
 
 int main()
